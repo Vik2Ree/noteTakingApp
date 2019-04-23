@@ -1,0 +1,13 @@
+header button {
+    outline-width: 10px;
+    border-radius: 4px;
+}
+
+section {
+    border: 1px solid transparent;
+    margin: 20px 30px;
+}
+
+section:hover {
+    background-color: #e6e6e6;
+}
